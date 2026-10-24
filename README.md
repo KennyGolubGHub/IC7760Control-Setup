@@ -2,7 +2,7 @@
 
 **Download the installer only.** Do not use GitHub's `Source code` zip or tar.gz links — those are not the program.
 
-[Download IC7760Control-Setup-1.4.48.zip](https://github.com/KennyGolubGHub/IC7760Control-Setup/releases/download/v1.4.48/IC7760Control-Setup-1.4.48.zip)
+[Download IC7760Control-Setup-1.4.50.zip](https://github.com/KennyGolubGHub/IC7760Control-Setup/releases/download/v1.4.50/IC7760Control-Setup-1.4.50.zip)
 
 1. Unzip the file.
 2. Run **IC7760Control-Setup.exe**.
